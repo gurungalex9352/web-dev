@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+
+/* .container{
+    background-color: bisque;
+    height: 80px;
+    width: 100%;
+} */
+
+
+
+nav ul{
+    list-style-type: none;
+    background-color: beige;
+    padding: 1.5rem;
+}
+
+nav li{
+    display: inline;
+}
+
+nav a{
+    text-decoration: none;
+    color: #000;
+    padding: 1.5rem; 
+}
+
+
+.nav{
+    display: inline;
+}
+
+/* .second a{
+    padding: 1rem;
+    border-radius: 100rem;
+    
+}
+
+.second a:hover{
+    opacity: 70%;
+} */
+
+
+
